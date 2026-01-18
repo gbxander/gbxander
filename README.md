@@ -7,7 +7,7 @@
 </div>
   
 ## 📖 About Me
-I'm a **Software Engineer** with a strong passion for bringing creative ideas to life with code. My professional journey includes over 5 years of experience designing, developing, and maintaining dynamic web applications. Currently, I'm focused on pursuing an **M.S. in Computer Science at Georgia Tech** (Expected Dec. 2026), specializing in Artificial Intelligence.
+I'm a **Software Engineer** with a strong passion for bringing cool ideas to life with code. My professional journey includes over 5 years of experience designing, developing, and maintaining dynamic web applications. Currently, I'm focused on pursuing an **M.S. in Computer Science at Georgia Tech** (Expected Dec. 2026), specializing in Artificial Intelligence.
 
 ## 🛠 Tech Skills
 <p align="left">
