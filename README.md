@@ -20,8 +20,8 @@ I'm a **Software Engineer** with a strong passion for bringing cool ideas to lif
 
 ## 🧠 Current Focus (Georgia Tech)
 I'm currently deepening my expertise in computing systems, information security, and artificial intelligence through the following coursework:
-- 🔒 **Information Security**: Network Security and Intro to Information Security.
-- 🤖 **Artificial Intelligence**: Artificial Intelligence (Scheduled for Spring 2026), Natural Language Processing (Schedule for Summer 2026), and Machine Learning (Scheduled for Fall 2026).
-- ⚙️ **Computing Systems**: Graduate Intro to Operating Systems, Computer Networks and Graduate Algorithms.
+- 🔒 **Information Security**: CS 6262 Network Security and CS 6035 Intro to Information Security.
+- 🤖 **Artificial Intelligence**: CS 6601 Artificial Intelligence (Scheduled for Spring 2026), CS 7650 Natural Language Processing (Schedule for Summer 2026), and CS 7641 Machine Learning (Scheduled for Fall 2026).
+- ⚙️ **Computing Systems**: CS 6200 Graduate Intro to Operating Systems, CS 6250 Computer Networks and CS 6515 Graduate Algorithms.
 
 
